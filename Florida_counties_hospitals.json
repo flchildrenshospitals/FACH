@@ -12211,7 +12211,7 @@
       "type": "Feature",
       "properties": {
         "name": "Muma TGH Children's Hospital",
-        "link": "<a href='/members/tampageneral' style='text-decoration: none;'>TGH Children's Hospital</a>"
+        "link": "<a href='/members/tampageneral' style='text-decoration: none;'>Muma TGH Children's Hospital</a>"
       },
       "geometry": {
         "type": "Point",
