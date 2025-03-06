@@ -12108,7 +12108,7 @@
       "type": "Feature",
       "properties": {
         "name": "Arnold Palmer Hospital for Children",
-        "link": "<a href='/members/apalmer' style='text-decoration: none;'>Arnold Palmer Hospital for Children</a>",
+        "link": "<a href='/members/arnoldpalmer' style='text-decoration: none;'>Arnold Palmer Hospital for Children</a>",
         "region": "E"
       },
       "geometry": {
@@ -12122,7 +12122,7 @@
       "type": "Feature",
       "properties": {
         "name": "Golisano Children's Hospital",
-        "link": "<a href='/members/golisanoch' style='text-decoration: none;'>Golisano Children's Hospital</a>",
+        "link": "<a href='/members/golisano' style='text-decoration: none;'>Golisano Children's Hospital</a>",
         "region": "F"
       },
       "geometry": {
@@ -12220,7 +12220,7 @@
       "type": "Feature",
       "properties": {
         "name": "Muma TGH Children's Hospital",
-        "link": "<a href='/members/tampageneral' style='text-decoration: none;'>Muma TGH Children's Hospital</a>",
+        "link": "<a href='/members/mumatgh' style='text-decoration: none;'>Muma TGH Children's Hospital</a>",
         "region": "D"
       },
       "geometry": {
